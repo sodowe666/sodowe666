@@ -19,7 +19,7 @@ extern "C" {
 #endif
 
 // forward declaration
-typedef enum FaissMetricType FaissMetricType;
+//typedef enum FaissMetricType FaissMetricType;
 
 /** Opaque type for IndexFlat */
 FAISS_DECLARE_CLASS_INHERITED(IndexFlat, Index)

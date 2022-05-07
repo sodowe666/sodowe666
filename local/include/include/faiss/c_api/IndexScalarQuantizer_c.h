@@ -29,7 +29,7 @@ typedef enum FaissQuantizerType {
 } FaissQuantizerType;
 
 // forward declaration
-typedef enum FaissMetricType FaissMetricType;
+//typedef enum FaissMetricType FaissMetricType;
 
 /** Opaque type for IndexScalarQuantizer */
 FAISS_DECLARE_CLASS_INHERITED(IndexScalarQuantizer, Index)
